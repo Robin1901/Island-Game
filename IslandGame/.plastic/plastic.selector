@@ -1,0 +1,4 @@
+repository "IslandGame/IslandGame@9071371441281@cloud"
+  path "/"
+    br "/main"
+    co "/main"
